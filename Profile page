@@ -1,0 +1,55 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1334" measuredH="908" mockupW="979" mockupH="908">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::MenuBar" x="355" y="0" w="979" h="42" measuredW="140" measuredH="21" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CPA%20Network</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SearchBox" x="508" y="8" w="321" h="-1" measuredW="120" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="355" y="42" w="979" h="866" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="405" y="72" w="131" h="123" measuredW="732" measuredH="667" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./Untitled.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="590" y="76" w="686" h="119" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="605" y="93" w="656" h="80" measuredW="200" measuredH="80" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logan%20/%20%22Wolverine%22%0ASGV%20Auditor%0ALicensed%20CPA%20/%20Mercenary%0A%20%0A%22The%20name%27s%20Logan%2C%20I%27m%20the%20best%20there%20is%20at%20what%20I%20do%20and%20what%20I%20do%20best%20is%20very%20nice%2C%20I%20account%20things%21%21%21%22</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextArea" x="421" y="219" w="855" h="656" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Experience%3A%201900%20-%201950%20Soldier%0A%20%0A%09%20%20%20%20%20%20%201951%20-%202000%20Accountant%20at%20Yorkshire%20Accounting%0A%20%0A%09%20%20%20%20%20%20%202001%20-%202013%20Auditor%20at%20SGV%20Philippines%0A%20%0A%20%0A%20%0ASkills%3A%20Project%20Accounting%0A%20%20%20%20%20%20%20%20%20%20Finance%20Accounting%0A%20%20%20%20%20%20%20%20%20%20Government%20Accounting%0A%20%20%20%20%20%20%20%20%20%20Managerial%20Accounting%0A%20%20%20%20%20%20%20%20%20%20Finance%20accounting%0A%20%20%20%20%20%20%20%20%20%20Mastery%20of%20multiple%20combat%20techniques%0A%20%20%20%20%20%20%20%20%20%20Tracking%20Capabilities%0A%20%20%20%20%20%20%20%20%20%20Adamantium%20skeleton%0A%20%20%20%20%20%20%20%20%20%20Healing%20Factor%0A%20%0A%20%0A%20%0AEducation%3A%20BSA%20-%20DLSU-M%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20West%20Point%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Xavier%20School%20for%20Gifted%20Children%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Okinawa%20Dojo%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Weapon%20X%20Facility%0A%20%20%0A%20%0A%20%0A%20%20%20%20%20%20CPA%20Review%20School%3A%20Atlantis%20Review%20School%20%0A%20%20%20%20%20%20CPA%20batchmates%3A%20Namor%2C%20Iron%20Man%2C%20Spidey%2C%20Captain%20America%2C%20Hulkster%0A%20%0A%20%0A%20%0AAchievements%3A%20National%20Medal%20of%20Accounting%0A%09%20%20%20%20%20%20%20%20%20%20%20Being%20a%20Badass%0A%20%0A%20%0A%20%0AGroups%3A%20Platoon%20425%0A%09X-Men%0A%09Atlantisl%20Batch%20234%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="1224" y="9" w="-1" h="-1" measuredW="45" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="1171" y="9" w="-1" h="-1" measuredW="45" measuredH="24" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>GMailIcon%7Csmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="1119" y="9" w="-1" h="-1" measuredW="45" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>CopyIcon%7Csmall</icon>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Paragraph" x="596" y="346" w="417" h="144" measuredW="200" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>..............................................................................%20credited%20by%20DeadPool%0A.............................................................................%20credited%20by%20Scott%20Summers%0A%20%20%20.........................................................................%20credited%20by%20Agent%2047%0A%20%20%20.........................................................................%20credited%20by%20Megaman%0A..............................................................................%20credited%20by%20Professor%20Xavier%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20............................................%20credited%20by%20Thor%0A..................................................................................%20credited%20by%20Batman%0A................................................................................%20credited%20by%20Magneto%0A..........................................................................%20credited%20by%20Sabertooth</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
